@@ -1,0 +1,12 @@
+Log4j Info message : Assertion Fail Testcase
+ Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+ TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+ TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/CECH0207/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 06-03-2022 00:36:12 KeyCloakRoleMappingMainClass.java INFO  [main] testcases.KeyCloakRoleMappingMainClass 109 - Log4j Info message : Assertion Fail Testcase
+06-03-2022 00:36:12 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+06-03-2022 00:36:12 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+06-03-2022 00:36:12 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+06-03-2022 00:36:12 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+06-03-2022 00:36:12 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/CECH0207/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T22:12:07 IST" name="Test Automation Test Suite" finished-at="2022-07-07T22:13:15 IST" duration-ms="67755">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T22:12:07 IST" name="Regression Test Suit" finished-at="2022-07-07T22:13:15 IST" duration-ms="67755">
+      <class name="testcases.AtomIQRegressionTest">
+        <test-method is-config="true" signature="callURL()[pri:0, instance:testcases.AtomIQRegressionTest@229c6181]" started-at="2022-07-07T22:12:07 IST" name="callURL" finished-at="2022-07-07T22:12:12 IST" duration-ms="4924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callURL -->
+        <test-method signature="login()[pri:1, instance:testcases.AtomIQRegressionTest@229c6181]" started-at="2022-07-07T22:12:12 IST" name="login" finished-at="2022-07-07T22:12:40 IST" duration-ms="28243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="datasetCreation()[pri:2, instance:testcases.AtomIQRegressionTest@229c6181]" started-at="2022-07-07T22:12:40 IST" name="datasetCreation" finished-at="2022-07-07T22:13:15 IST" duration-ms="34409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datasetCreation -->
+        <test-method is-config="true" signature="finishTest()[pri:0, instance:testcases.AtomIQRegressionTest@229c6181]" started-at="2022-07-07T22:13:15 IST" name="finishTest" finished-at="2022-07-07T22:13:15 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- testcases.AtomIQRegressionTest -->
+    </test> <!-- Regression Test Suit -->
+  </suite> <!-- Test Automation Test Suite -->
+</testng-results>
